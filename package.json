@@ -1,0 +1,28 @@
+{
+  "name": "homebridge-iot4sh01bme",
+  "version": "0.1.0",
+  "description": "Homebridge plugin for IOT4 IOT4SH01BME sensor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Onderweg",
+  "license": "ISC",
+  "keywords": [
+    "homebridge-plugin",
+    "humidity",    
+    "temperature",
+    "IOT4"
+  ],
+  "engines": {
+    "node": ">=7.0.0",
+    "homebridge": ">=0.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/onderweg/homebridge-iot4sh01bme.git"
+  },
+  "dependencies": {
+    
+  }
+}
