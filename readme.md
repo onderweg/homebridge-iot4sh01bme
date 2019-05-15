@@ -6,7 +6,7 @@ Homebridge plugin for [IOT4 IOT4SH01BME](https://www.iot4.eu) Wifi temperature, 
 
 1. Install homebridge
 2. Install this plugin using: `npm install -g https://github.com/onderweg/homebridge-iot4sh01bme.git` (this package is not yet available on NPM)
-3. Update your Homebridge configuration file (`config.json`)
+3. Update your Homebridge configuration file (`config.json`) by adding a configuration object descripbed below
 
 ## Configuration
 
@@ -15,7 +15,7 @@ The available fields in the config.json file are:
  - `name` [required] Descriptive name of virtual device
  - `host` [required] IP or host name of iot4 device on the local network. Note that this host must be reachable from the HomeBridge instance.
  - `update_interval` Polling frequency in seconds (default 60)
- - `apiKey` [required] API key, can be found in admin interface
+ - `apiKey` [required] API key, can be found in the iot4 admin interface
 
 Example config values:
 
