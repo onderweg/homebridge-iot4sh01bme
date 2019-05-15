@@ -6,7 +6,7 @@ Homebridge plugin for [IOT4 IOT4SH01BME](https://www.iot4.eu) Wifi temperature, 
 
 1. Install homebridge
 2. Install this plugin using: `npm install -g https://github.com/onderweg/homebridge-iot4sh01bme.git` (this package is not yet available on NPM)
-3. Update your Homebridge configuration file (`config.json`) by adding a configuration object descripbed below
+3. Update your Homebridge configuration file (`config.json`) by adding a configuration object described below
 
 ## Configuration
 
